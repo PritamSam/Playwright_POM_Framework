@@ -1,0 +1,5 @@
+Name,Value
+Valid_Username,standard_user
+Valid_Password,secret_sauce
+Invalid_Username,standard_user1
+Invalid_Password,secret_sauce
