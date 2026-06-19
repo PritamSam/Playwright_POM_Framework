@@ -12,10 +12,12 @@ npx playwright test tests/login.spec.js
 npx playwright test tests/cart.spec.js
 npx playwright test tests/invalid-login.spec.js
 ```
+```
 If added new contents on csv then first run this command to convert contents from CSV to JSON - npm run convert
+
 To view report - 
 npx playwright show-report reports\19_06_2026__17_22_55\html-report
-
+```
 Project Overflow - 
 ```
 npx playwright test
