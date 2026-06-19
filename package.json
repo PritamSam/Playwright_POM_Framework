@@ -5,7 +5,10 @@
   "scripts": {
     "convert": "node utils/csvToJson.js",
     "test": "npx playwright test", 
-    "clean-reports": "node utils/deleteReports.js"
+    "clean-reports": "node utils/deleteReports.js",
+    "login": "npx playwright test tests/login.spec.js",
+    "cart": "npx playwright test tests/cart.spec.js",
+    "invalid-login": "npx playwright test tests/invalidLogin.spec.js"
   },
   "keywords": [],
   "author": "",

@@ -1,0 +1,5 @@
+[INFO] [2026-06-19T12:12:21.817Z] Testing login and logout with valid credentials
+[INFO] [2026-06-19T12:12:22.127Z] Testing page title
+[INFO] [2026-06-19T12:12:23.197Z] Page title test completed successfully
+[INFO] [2026-06-19T12:12:23.708Z] Login with valid credentials test completed successfully
+[INFO] [2026-06-19T12:12:24.810Z] Logout completed successfully
